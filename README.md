@@ -28,7 +28,7 @@
   >none
  
   ## Demo
-  ![giphy](https://media.giphy.com/media/gq8Bhl7TKhasE8EEeO/giphy.gif)
+  ![giphy](https://media.giphy.com/media/cB8iVa0e94pizK3z7E/giphy.gif)
   
   ## Links
   > Link to Application: https://note-taker-developer.herokuapp.com/
