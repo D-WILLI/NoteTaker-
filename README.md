@@ -17,9 +17,11 @@
 
 
   ## Installation
-  >npm install 
-  >npm i express
-  >npm i uuid 
+  ``npm install ``
+  
+  ``npm i express``
+  
+  ``npm i uuid ``
   
 
   ## Usage
@@ -28,8 +30,10 @@
   ## Demo
   ![giphy](https://media.giphy.com/media/gq8Bhl7TKhasE8EEeO/giphy.gif)
   
-  ### Links
-  
+  ## Links
+  > Link to Application: https://note-taker-developer.herokuapp.com/
+  > 
+  > Link to Repo: https://github.com/D-WILLI/NoteTaker-
 
 
   ## License
